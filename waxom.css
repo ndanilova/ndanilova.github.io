@@ -1103,14 +1103,16 @@ h1 {
 .features_phone {
     display: flex;
     flex-wrap: nowrap;
-    width: 30%
+    width: 423px;
+height: 616px;
 }
 
 
 
 .feature_text_box {
     width: 47%;
-
+display: flex;
+    flex-wrap: wrap;
     padding-top: 90px;
 }
 
